@@ -8,7 +8,7 @@ Still a beginner but loving the journey
 
 
 - 🔭 I’m currently working on ... myself, trying to learn new thing everyday... Also on my health 🏋️‍♂️
-- 🌱 I’m currently learning ... Python and SQL
+- 🌱 I’m currently learning ... Python, SQL and all things related to DataSciente in general (ML, Visualization, etc)
 - 👯 I’m looking to collaborate ... on any Python for DataScience project
 - 🤔 I’m looking for help with ... interview tips, how to get started as a Data Analyst/Scientist
 - 💬 Ask me about ... Anything
