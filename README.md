@@ -4,7 +4,7 @@ Brazilian guy living in Australia for its Masters. <br>
 Graduated as a Mechanical Engineer but giving a shot into Data Analysis. 
 Passionate with numbers and for discovering patterns whiting data <br>
 I've been having some fun with Python and all its libraries for data analytics and machine learning.<br>
-Still a beginner but loving the journey
+Loving the journey so far
 
 
 - 🔭 I’m currently working on ... myself, trying to learn new thing everyday... Also on my health 🏋️‍♂️
